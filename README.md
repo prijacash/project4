@@ -1,13 +1,13 @@
 # Dream Planner
-Everyone has a dream vacation in their bucketlist.  We're here to bring those dreams closer to reality with a budget tracker.  Users can post and share their dream vacation and calculate how much they need to save each week to make it happen.  Once the user goes on their vacation, they can add actual expenses to the trips.
+Everyone has a dream vacation in their bucketlist.  We're here to bring those dreams closer to reality with a budget tracker.  Users can post and share their dream vacation and calculate how much they need to save each week.  Once the user goes on their vacation, they can add actual expenses to the trips.
 
-Users can share their expenses to others to help other see how much it really costs.
+Users can share their expenses to others to help other see how much it really costs.  
 
 ## Team Members
-- VSPD - Valeria, Sean, Prija, Devin
+- VSPD - Valerie, Sean, Prija, Devin
 
 ## User Stories
-* User can create, read update, delete profile
+* User can create, read, update, delete profile
 * User can create, read, update, delete destination details.
 * User can create, read, update, delete expense from a destination.
 
@@ -39,7 +39,7 @@ Users can share their expenses to others to help other see how much it really co
 | HTTP METHOD | URL              | CRUD    | Response                              |
 | ----------- | ---------------- | ------- | ------------------------------------- |
 | GET | `/users/:userId/destinations` | READ | see a specific destination |
-| POST | `/users/:userId/destinations/:destinationId` | CREAATE | add destination to profile |
+| POST | `/users/:userId/destinations/:destinationId` | CREATE | add destination to profile |
 | PUT | `/users/:userId/destinations/:destinationId` | UPDATE | ability to edit destination |
 | DELETE | `/users/:userId/destinations/:destinationId` | DESTROY | delete destination details |
 
