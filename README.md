@@ -97,20 +97,20 @@ Day6
 - Axios
 
 ## MVP goals
-[ ] User can create, read update, delete profile
-[ ] User can create, read, update, delete destination details.
-[ ] User can create, read, update, delete expense from a destination.
-[ ] Learn Django for react
-[ ] Wire Framing
-[ ] Task Tracking
-[ ] CSS - Tailwind 
+- [ ] User can create, read update, delete profile
+- [ ] User can create, read, update, delete destination details.
+- [ ] User can create, read, update, delete expense from a destination.
+- [ ] Learn Django for react
+- [ ] Wire Framing
+- [ ] Task Tracking
+- [ ] CSS - Tailwind 
 
 ## Stretch Goals
-[ ] API 
-[ ] Expense Dashboard
-[ ] Social Page (view friends)
-[ ] Profile Photo
-[ ] Comments
+- [ ] API 
+- [ ] Expense Dashboard
+- [ ] Social Page (view friends)
+- [ ] Profile Photo
+- [ ] Comments
 
 
 ## Major Hurdles 
